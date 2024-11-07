@@ -1,5 +1,20 @@
-p {
-    background-color: #ff0000;
+.odd {
+    background-color: #FFC0CB;
     font-family: Verdana, Dejavu sans-serif;
+}
+
+#second {
+    color: #0000ff;
+    font-size: 36px;
+}
+
+.odd.third {
+    font-size: 24px;
+}
+
+#fourth {
+    background-color: #90ee90;
+    font-size: 24px;
+    font-weight: bold;
 }
 
