@@ -26,6 +26,6 @@ as big as its width (here you should hardcode in a pixel value).
 ![desired outcome](./desired-outcome.png)
 
 ### Self Check
-- Did you properly chain class selectors for each rule?
-- Does the `proportioned` image retain its original square proportions?
-- Does the `distorted` image end up looking squished and, well, distorted?
+- Did you properly chain class selectors for each rule? yes
+- Does the `proportioned` image retain its original square proportions? yes
+- Does the `distorted` image end up looking squished and, well, distorted? yes
