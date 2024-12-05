@@ -19,6 +19,6 @@ you; we trust you'll practice using the different values! The properties you nee
 
 ### Self Check
 
-- Does each element have a unique class name?
-- Did you use the grouping selector for styles that both elements share?
-- Did you make separate rules for the styles unique to each element?
+- Does each element have a unique class name? yes
+- Did you use the grouping selector for styles that both elements share? yes
+- Did you make separate rules for the styles unique to each element? yes
